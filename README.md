@@ -1,4 +1,4 @@
-# Runkeeper_Fitness_Analysis
+# Analyze Runkeeper Fitness Data
 Import, clean, and analyze seven years worth of training data tracked on the Runkeeper app.
 
 # Description
